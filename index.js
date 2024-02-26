@@ -29,15 +29,15 @@
 // });
 
 // // Importing https module
-const http = require('http');
+// const http = require('http');
 
-// Setting the configuration for
-// the request
-const options = {
-	hostname: 'jsonplaceholder.typicode.com',
-	path: '/posts',
-	method: 'GET'
-};
+// // Setting the configuration for
+// // the request
+// const options = {
+// 	hostname: 'jsonplaceholder.typicode.com',
+// 	path: '/posts',
+// 	method: 'GET'
+// };
 
 // // Sending the request
 // const req = http.request(options, (res) => {
